@@ -1,5 +1,7 @@
 # Portfolio-Analysis-and-Risk-Management
 
+<img src="pic.png" alt="Image Description" width="800"/>
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Structure](#project-structure)
